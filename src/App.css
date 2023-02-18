@@ -7,6 +7,22 @@
   pointer-events: none;
 }
 
+.label {
+  margin-right: 3px;
+
+}
+.form {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+.form-group {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
